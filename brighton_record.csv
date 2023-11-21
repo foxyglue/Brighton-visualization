@@ -1,0 +1,263 @@
+date,season,game_id,name,home_club_name,away_club_name,own_position,round,own_goals,opponent_goals,is_win,is_draw,is_lose,own_manager_name,hosting
+2015-01-03,2014,2517347,fa-cup,Brentford FC,Brighton & Hove Albion,,Third Round,2,0,1,0,0,Chris Hughton,Away
+2015-01-25,2014,2527280,fa-cup,Brighton & Hove Albion,Arsenal FC,,Fourth Round,2,3,0,0,1,Chris Hughton,Home
+2016-01-09,2015,2646172,fa-cup,Hull City,Brighton & Hove Albion,,Third Round,0,1,0,0,1,Chris Hughton,Away
+2017-01-07,2016,2808930,fa-cup,Brighton & Hove Albion,,,Third Round,2,0,1,0,0,Chris Hughton,Home
+2017-01-28,2016,2816200,fa-cup,,Brighton & Hove Albion,,Fourth Round,1,3,0,0,1,Chris Hughton,Away
+2017-08-12,2017,2872116,premier-league,Brighton & Hove Albion,Manchester City,18,1. Matchday,0,2,0,0,1,Chris Hughton,Home
+2017-08-19,2017,2872128,premier-league,Leicester City,Brighton & Hove Albion,19,2. Matchday,0,2,0,0,1,Chris Hughton,Away
+2017-08-26,2017,2872143,premier-league,Watford FC,Brighton & Hove Albion,17,3. Matchday,0,0,0,1,0,Chris Hughton,Away
+2017-09-09,2017,2872146,premier-league,Brighton & Hove Albion,West Bromwich Albion,14,4. Matchday,3,1,1,0,0,Chris Hughton,Home
+2017-09-15,2017,2872155,premier-league,AFC Bournemouth,Brighton & Hove Albion,16,5. Matchday,1,2,0,0,1,Chris Hughton,Away
+2017-09-24,2017,2872166,premier-league,Brighton & Hove Albion,Newcastle United,13,6. Matchday,1,0,1,0,0,Chris Hughton,Home
+2017-10-01,2017,2872176,premier-league,Arsenal FC,Brighton & Hove Albion,14,7. Matchday,0,2,0,0,1,Chris Hughton,Away
+2017-10-15,2017,2872185,premier-league,Brighton & Hove Albion,Everton FC,14,8. Matchday,1,1,0,1,0,Chris Hughton,Home
+2017-10-20,2017,2872204,premier-league,West Ham United,Brighton & Hove Albion,12,9. Matchday,3,0,1,0,0,Chris Hughton,Away
+2017-10-29,2017,2872207,premier-league,Brighton & Hove Albion,Southampton FC,12,10. Matchday,1,1,0,1,0,Chris Hughton,Home
+2017-11-04,2017,2872222,premier-league,Swansea City,Brighton & Hove Albion,8,11. Matchday,1,0,1,0,0,Chris Hughton,Away
+2017-11-20,2017,2872227,premier-league,Brighton & Hove Albion,Stoke City,9,12. Matchday,2,2,0,1,0,Chris Hughton,Home
+2017-11-25,2017,2872239,premier-league,Manchester United,Brighton & Hove Albion,9,13. Matchday,0,1,0,0,1,Chris Hughton,Away
+2017-11-28,2017,2872247,premier-league,Brighton & Hove Albion,Crystal Palace,10,14. Matchday,0,0,0,1,0,Chris Hughton,Home
+2017-12-02,2017,2872257,premier-league,Brighton & Hove Albion,Liverpool FC,12,15. Matchday,1,5,0,0,1,Chris Hughton,Home
+2017-12-09,2017,2872267,premier-league,Huddersfield Town,Brighton & Hove Albion,13,16. Matchday,0,2,0,0,1,Chris Hughton,Away
+2017-12-13,2017,2872284,premier-league,Tottenham Hotspur,Brighton & Hove Albion,13,17. Matchday,0,2,0,0,1,Chris Hughton,Away
+2017-12-16,2017,2872287,premier-league,Brighton & Hove Albion,Burnley FC,13,18. Matchday,0,0,0,1,0,Chris Hughton,Home
+2017-12-23,2017,2872296,premier-league,Brighton & Hove Albion,Watford FC,12,19. Matchday,1,0,1,0,0,Chris Hughton,Home
+2017-12-26,2017,2872306,premier-league,Chelsea FC,Brighton & Hove Albion,12,20. Matchday,0,2,0,0,1,Chris Hughton,Away
+2017-12-30,2017,2872321,premier-league,Newcastle United,Brighton & Hove Albion,12,21. Matchday,0,0,0,1,0,Chris Hughton,Away
+2018-01-01,2017,2872326,premier-league,Brighton & Hove Albion,AFC Bournemouth,12,22. Matchday,2,2,0,1,0,Chris Hughton,Home
+2018-01-08,2017,2984199,fa-cup,Brighton & Hove Albion,Crystal Palace,,Third Round,2,1,1,0,0,Chris Hughton,Home
+2018-01-13,2017,2872344,premier-league,West Bromwich Albion,Brighton & Hove Albion,16,23. Matchday,0,2,0,0,1,Chris Hughton,Away
+2018-01-20,2017,2872346,premier-league,Brighton & Hove Albion,Chelsea FC,16,24. Matchday,0,4,0,0,1,Chris Hughton,Home
+2018-01-27,2017,2990429,fa-cup,Middlesbrough FC,Brighton & Hove Albion,,Fourth Round,1,0,1,0,0,Chris Hughton,Away
+2018-01-31,2017,2872362,premier-league,Southampton FC,Brighton & Hove Albion,15,25. Matchday,1,1,0,1,0,Chris Hughton,Away
+2018-02-03,2017,2872367,premier-league,Brighton & Hove Albion,West Ham United,13,26. Matchday,3,1,1,0,0,Chris Hughton,Home
+2018-02-10,2017,2872381,premier-league,Stoke City,Brighton & Hove Albion,14,27. Matchday,1,1,0,1,0,Chris Hughton,Away
+2018-02-17,2017,3000027,fa-cup,Brighton & Hove Albion,,,Fifth Round,3,1,1,0,0,Chris Hughton,Home
+2018-02-24,2017,2872387,premier-league,Brighton & Hove Albion,Swansea City,12,28. Matchday,4,1,1,0,0,Chris Hughton,Home
+2018-03-04,2017,2872395,premier-league,Brighton & Hove Albion,Arsenal FC,10,29. Matchday,2,1,1,0,0,Chris Hughton,Home
+2018-03-10,2017,2872408,premier-league,Everton FC,Brighton & Hove Albion,11,30. Matchday,0,2,0,0,1,Chris Hughton,Away
+2018-03-17,2017,3012049,fa-cup,Manchester United,Brighton & Hove Albion,,Sixth Round,0,2,0,0,1,Chris Hughton,Away
+2018-03-31,2017,2872426,premier-league,Brighton & Hove Albion,Leicester City,13,32. Matchday,0,2,0,0,1,Chris Hughton,Home
+2018-04-07,2017,2872437,premier-league,Brighton & Hove Albion,Huddersfield Town,13,33. Matchday,1,1,0,1,0,Chris Hughton,Home
+2018-04-14,2017,2872446,premier-league,Crystal Palace,Brighton & Hove Albion,14,34. Matchday,2,3,0,0,1,Chris Hughton,Away
+2018-04-17,2017,2872457,premier-league,Brighton & Hove Albion,Tottenham Hotspur,13,35. Matchday,1,1,0,1,0,Chris Hughton,Home
+2018-04-28,2017,2872465,premier-league,Burnley FC,Brighton & Hove Albion,14,36. Matchday,0,0,0,1,0,Chris Hughton,Away
+2018-05-04,2017,2872477,premier-league,Brighton & Hove Albion,Manchester United,14,37. Matchday,1,0,1,0,0,Chris Hughton,Home
+2018-05-09,2017,2872420,premier-league,Manchester City,Brighton & Hove Albion,12,31. Matchday,1,3,0,0,1,Chris Hughton,Away
+2018-05-13,2017,2872488,premier-league,Liverpool FC,Brighton & Hove Albion,15,38. Matchday,0,4,0,0,1,Chris Hughton,Away
+2018-08-11,2018,3050175,premier-league,Watford FC,Brighton & Hove Albion,16,1. Matchday,0,2,0,0,1,Chris Hughton,Away
+2018-08-19,2018,3050177,premier-league,Brighton & Hove Albion,Manchester United,11,2. Matchday,3,2,1,0,0,Chris Hughton,Home
+2018-08-25,2018,3050191,premier-league,Liverpool FC,Brighton & Hove Albion,12,3. Matchday,0,1,0,0,1,Chris Hughton,Away
+2018-09-01,2018,3050197,premier-league,Brighton & Hove Albion,Fulham FC,14,4. Matchday,2,2,0,1,0,Chris Hughton,Home
+2018-09-17,2018,3050213,premier-league,Southampton FC,Brighton & Hove Albion,14,5. Matchday,2,2,0,1,0,Chris Hughton,Away
+2018-09-22,2018,3050218,premier-league,Brighton & Hove Albion,Tottenham Hotspur,13,6. Matchday,1,2,0,0,1,Chris Hughton,Home
+2018-09-29,2018,3050233,premier-league,Manchester City,Brighton & Hove Albion,15,7. Matchday,0,2,0,0,1,Chris Hughton,Away
+2018-10-05,2018,3050237,premier-league,Brighton & Hove Albion,West Ham United,13,8. Matchday,1,0,1,0,0,Chris Hughton,Home
+2018-10-20,2018,3050254,premier-league,Newcastle United,Brighton & Hove Albion,12,9. Matchday,1,0,1,0,0,Chris Hughton,Away
+2018-10-27,2018,3050257,premier-league,Brighton & Hove Albion,Wolverhampton Wanderers,11,10. Matchday,1,0,1,0,0,Chris Hughton,Home
+2018-11-03,2018,3050271,premier-league,Everton FC,Brighton & Hove Albion,12,11. Matchday,1,3,0,0,1,Chris Hughton,Away
+2018-11-10,2018,3050278,premier-league,Cardiff City,Brighton & Hove Albion,12,12. Matchday,1,2,0,0,1,Chris Hughton,Away
+2018-11-24,2018,3050288,premier-league,Brighton & Hove Albion,Leicester City,12,13. Matchday,1,1,0,1,0,Chris Hughton,Home
+2018-12-01,2018,3050301,premier-league,Huddersfield Town,Brighton & Hove Albion,11,14. Matchday,2,1,1,0,0,Chris Hughton,Away
+2018-12-04,2018,3050308,premier-league,Brighton & Hove Albion,Crystal Palace,10,15. Matchday,3,1,1,0,0,Chris Hughton,Home
+2018-12-08,2018,3050319,premier-league,Burnley FC,Brighton & Hove Albion,13,16. Matchday,0,1,0,0,1,Chris Hughton,Away
+2018-12-16,2018,3050327,premier-league,Brighton & Hove Albion,Chelsea FC,13,17. Matchday,1,2,0,0,1,Chris Hughton,Home
+2018-12-22,2018,3050338,premier-league,AFC Bournemouth,Brighton & Hove Albion,13,18. Matchday,0,2,0,0,1,Chris Hughton,Away
+2018-12-26,2018,3050417,premier-league,Brighton & Hove Albion,Arsenal FC,13,19. Matchday,1,1,0,1,0,Chris Hughton,Home
+2018-12-29,2018,3050347,premier-league,Brighton & Hove Albion,Everton FC,13,20. Matchday,1,0,1,0,0,Chris Hughton,Home
+2019-01-02,2018,3050365,premier-league,West Ham United,Brighton & Hove Albion,13,21. Matchday,2,2,0,1,0,Chris Hughton,Away
+2019-01-05,2018,3136597,fa-cup,AFC Bournemouth,Brighton & Hove Albion,,Third Round,3,1,1,0,0,Chris Hughton,Away
+2019-01-12,2018,3050367,premier-league,Brighton & Hove Albion,Liverpool FC,13,22. Matchday,0,1,0,0,1,Chris Hughton,Home
+2019-01-19,2018,3050382,premier-league,Manchester United,Brighton & Hove Albion,13,23. Matchday,1,2,0,0,1,Chris Hughton,Away
+2019-01-26,2018,3147862,fa-cup,Brighton & Hove Albion,West Bromwich Albion,,Fourth Round,0,0,0,1,0,Chris Hughton,Home
+2019-01-29,2018,3050389,premier-league,Fulham FC,Brighton & Hove Albion,13,24. Matchday,2,4,0,0,1,Chris Hughton,Away
+2019-02-02,2018,3050397,premier-league,Brighton & Hove Albion,Watford FC,13,25. Matchday,0,0,0,1,0,Chris Hughton,Home
+2019-02-06,2018,3151385,fa-cup,West Bromwich Albion,Brighton & Hove Albion,,4th round deciders,3,1,1,0,0,Chris Hughton,Away
+2019-02-09,2018,3050407,premier-league,Brighton & Hove Albion,Burnley FC,14,26. Matchday,1,3,0,0,1,Chris Hughton,Home
+2019-02-16,2018,3156274,fa-cup,Brighton & Hove Albion,,,Fifth Round,2,1,1,0,0,Chris Hughton,Home
+2019-02-26,2018,3050440,premier-league,Leicester City,Brighton & Hove Albion,16,28. Matchday,1,2,0,0,1,Chris Hughton,Away
+2019-03-02,2018,3050448,premier-league,Brighton & Hove Albion,Huddersfield Town,15,29. Matchday,1,0,1,0,0,Chris Hughton,Home
+2019-03-09,2018,3050460,premier-league,Crystal Palace,Brighton & Hove Albion,15,30. Matchday,2,1,1,0,0,Chris Hughton,Away
+2019-03-17,2018,3159984,fa-cup,,Brighton & Hove Albion,,Sixth Round,7,6,1,0,0,Chris Hughton,Away
+2019-03-30,2018,3050486,premier-league,Brighton & Hove Albion,Southampton FC,16,32. Matchday,0,1,0,0,1,Chris Hughton,Home
+2019-04-03,2018,3050431,premier-league,Chelsea FC,Brighton & Hove Albion,16,27. Matchday,0,3,0,0,1,Chris Hughton,Away
+2019-04-06,2018,3168580,fa-cup,Manchester City,Brighton & Hove Albion,,Semi-Finals,0,1,0,0,1,Chris Hughton,Away
+2019-04-13,2018,3050513,premier-league,Brighton & Hove Albion,AFC Bournemouth,17,34. Matchday,0,5,0,0,1,Chris Hughton,Home
+2019-04-16,2018,3050476,premier-league,Brighton & Hove Albion,Cardiff City,15,31. Matchday,0,2,0,0,1,Chris Hughton,Home
+2019-04-20,2018,3050532,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,17,35. Matchday,0,0,0,1,0,Chris Hughton,Away
+2019-04-23,2018,3050502,premier-league,Tottenham Hotspur,Brighton & Hove Albion,17,33. Matchday,0,1,0,0,1,Chris Hughton,Away
+2019-04-27,2018,3050533,premier-league,Brighton & Hove Albion,Newcastle United,17,36. Matchday,1,1,0,1,0,Chris Hughton,Home
+2019-05-05,2018,3050551,premier-league,Arsenal FC,Brighton & Hove Albion,17,37. Matchday,1,1,0,1,0,Chris Hughton,Away
+2019-05-12,2018,3050561,premier-league,Brighton & Hove Albion,Manchester City,17,38. Matchday,1,4,0,0,1,Chris Hughton,Home
+2019-08-10,2019,3194820,premier-league,Watford FC,Brighton & Hove Albion,5,1. Matchday,3,0,1,0,0,Graham Potter,Away
+2019-08-17,2019,3219433,premier-league,Brighton & Hove Albion,West Ham United,5,2. Matchday,1,1,0,1,0,Graham Potter,Home
+2019-08-24,2019,3219429,premier-league,Brighton & Hove Albion,Southampton FC,8,3. Matchday,0,2,0,0,1,Graham Potter,Home
+2019-08-31,2019,3219422,premier-league,Manchester City,Brighton & Hove Albion,16,4. Matchday,0,4,0,0,1,Graham Potter,Away
+2019-09-14,2019,3219418,premier-league,Brighton & Hove Albion,Burnley FC,16,5. Matchday,1,1,0,1,0,Graham Potter,Home
+2019-09-21,2019,3219072,premier-league,Newcastle United,Brighton & Hove Albion,15,6. Matchday,0,0,0,1,0,Graham Potter,Away
+2019-09-28,2019,3219407,premier-league,Chelsea FC,Brighton & Hove Albion,16,7. Matchday,0,2,0,0,1,Graham Potter,Away
+2019-10-05,2019,3219402,premier-league,Brighton & Hove Albion,Tottenham Hotspur,14,8. Matchday,3,0,1,0,0,Graham Potter,Home
+2019-10-19,2019,3219395,premier-league,Aston Villa,Brighton & Hove Albion,16,9. Matchday,1,2,0,0,1,Graham Potter,Away
+2019-10-26,2019,3219387,premier-league,Brighton & Hove Albion,Everton FC,14,10. Matchday,3,2,1,0,0,Graham Potter,Home
+2019-11-02,2019,3219370,premier-league,Brighton & Hove Albion,Norwich City,8,11. Matchday,2,0,1,0,0,Graham Potter,Home
+2019-11-10,2019,3219366,premier-league,Manchester United,Brighton & Hove Albion,11,12. Matchday,1,3,0,0,1,Graham Potter,Away
+2019-11-23,2019,3219351,premier-league,Brighton & Hove Albion,Leicester City,12,13. Matchday,0,2,0,0,1,Graham Potter,Home
+2019-11-30,2019,3219342,premier-league,Liverpool FC,Brighton & Hove Albion,16,14. Matchday,1,2,0,0,1,Graham Potter,Away
+2019-12-05,2019,3219334,premier-league,Arsenal FC,Brighton & Hove Albion,13,15. Matchday,2,1,1,0,0,Graham Potter,Away
+2019-12-08,2019,3219327,premier-league,Brighton & Hove Albion,Wolverhampton Wanderers,12,16. Matchday,2,2,0,1,0,Graham Potter,Home
+2019-12-16,2019,3219312,premier-league,Crystal Palace,Brighton & Hove Albion,13,17. Matchday,1,1,0,1,0,Graham Potter,Away
+2019-12-21,2019,3219299,premier-league,Brighton & Hove Albion,Sheffield United,13,18. Matchday,0,1,0,0,1,Graham Potter,Home
+2019-12-26,2019,3219278,premier-league,Tottenham Hotspur,Brighton & Hove Albion,15,19. Matchday,1,2,0,0,1,Graham Potter,Away
+2019-12-28,2019,3219280,premier-league,Brighton & Hove Albion,AFC Bournemouth,14,20. Matchday,2,0,1,0,0,Graham Potter,Home
+2020-01-01,2019,3219276,premier-league,Brighton & Hove Albion,Chelsea FC,14,21. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-01-04,2019,3300770,fa-cup,Brighton & Hove Albion,,,Third Round,0,1,0,0,1,Graham Potter,Home
+2020-01-11,2019,3219275,premier-league,Everton FC,Brighton & Hove Albion,14,22. Matchday,0,1,0,0,1,Graham Potter,Away
+2020-01-18,2019,3219252,premier-league,Brighton & Hove Albion,Aston Villa,15,23. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-01-21,2019,3219238,premier-league,AFC Bournemouth,Brighton & Hove Albion,15,24. Matchday,1,3,0,0,1,Graham Potter,Away
+2020-02-01,2019,3219227,premier-league,West Ham United,Brighton & Hove Albion,15,25. Matchday,3,3,0,1,0,Graham Potter,Away
+2020-02-08,2019,3219223,premier-league,Brighton & Hove Albion,Watford FC,15,26. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-02-22,2019,3219181,premier-league,Sheffield United,Brighton & Hove Albion,15,27. Matchday,1,1,0,1,0,Graham Potter,Away
+2020-02-29,2019,3219211,premier-league,Brighton & Hove Albion,Crystal Palace,15,28. Matchday,0,1,0,0,1,Graham Potter,Home
+2020-03-07,2019,3219145,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,15,29. Matchday,0,0,0,1,0,Graham Potter,Away
+2020-06-20,2019,3219144,premier-league,Brighton & Hove Albion,Arsenal FC,15,30. Matchday,2,1,1,0,0,Graham Potter,Home
+2020-06-23,2019,3219160,premier-league,Leicester City,Brighton & Hove Albion,15,31. Matchday,0,0,0,1,0,Graham Potter,Away
+2020-06-30,2019,3219171,premier-league,Brighton & Hove Albion,Manchester United,15,32. Matchday,0,3,0,0,1,Graham Potter,Home
+2020-07-04,2019,3219207,premier-league,Norwich City,Brighton & Hove Albion,15,33. Matchday,1,0,1,0,0,Graham Potter,Away
+2020-07-08,2019,3219206,premier-league,Brighton & Hove Albion,Liverpool FC,15,34. Matchday,1,3,0,0,1,Graham Potter,Home
+2020-07-11,2019,3219120,premier-league,Brighton & Hove Albion,Manchester City,15,35. Matchday,0,5,0,0,1,Graham Potter,Home
+2020-07-16,2019,3219127,premier-league,Southampton FC,Brighton & Hove Albion,16,36. Matchday,1,1,0,1,0,Graham Potter,Away
+2020-07-20,2019,3219157,premier-league,Brighton & Hove Albion,Newcastle United,16,37. Matchday,0,0,0,1,0,Graham Potter,Home
+2020-07-26,2019,3219103,premier-league,Burnley FC,Brighton & Hove Albion,15,38. Matchday,2,1,1,0,0,Graham Potter,Away
+2020-09-14,2020,3420826,premier-league,Brighton & Hove Albion,Chelsea FC,15,1. Matchday,1,3,0,0,1,Graham Potter,Home
+2020-09-20,2020,3420845,premier-league,Newcastle United,Brighton & Hove Albion,8,2. Matchday,3,0,1,0,0,Graham Potter,Away
+2020-09-26,2020,3421694,premier-league,Brighton & Hove Albion,Manchester United,14,3. Matchday,2,3,0,0,1,Graham Potter,Home
+2020-10-03,2020,3421706,premier-league,Everton FC,Brighton & Hove Albion,16,4. Matchday,2,4,0,0,1,Graham Potter,Away
+2020-10-18,2020,3421714,premier-league,Crystal Palace,Brighton & Hove Albion,16,5. Matchday,1,1,0,1,0,Graham Potter,Away
+2020-10-26,2020,3421725,premier-league,Brighton & Hove Albion,West Bromwich Albion,16,6. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-11-01,2020,3421741,premier-league,Tottenham Hotspur,Brighton & Hove Albion,16,7. Matchday,1,2,0,0,1,Graham Potter,Away
+2020-11-06,2020,3421744,premier-league,Brighton & Hove Albion,Burnley FC,16,8. Matchday,0,0,0,1,0,Graham Potter,Home
+2020-11-21,2020,3421753,premier-league,Aston Villa,Brighton & Hove Albion,16,9. Matchday,2,1,1,0,0,Graham Potter,Away
+2020-11-28,2020,3421764,premier-league,Brighton & Hove Albion,Liverpool FC,16,10. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-12-07,2020,3421774,premier-league,Brighton & Hove Albion,Southampton FC,16,11. Matchday,1,2,0,0,1,Graham Potter,Home
+2020-12-13,2020,3421788,premier-league,Leicester City,Brighton & Hove Albion,16,12. Matchday,0,3,0,0,1,Graham Potter,Away
+2020-12-16,2020,3421795,premier-league,Fulham FC,Brighton & Hove Albion,16,13. Matchday,0,0,0,1,0,Graham Potter,Away
+2020-12-20,2020,3421803,premier-league,Brighton & Hove Albion,Sheffield United,17,14. Matchday,1,1,0,1,0,Graham Potter,Home
+2020-12-27,2020,3421821,premier-league,West Ham United,Brighton & Hove Albion,16,15. Matchday,2,2,0,1,0,Graham Potter,Away
+2020-12-29,2020,3421823,premier-league,Brighton & Hove Albion,Arsenal FC,17,16. Matchday,0,1,0,0,1,Graham Potter,Home
+2021-01-02,2020,3421833,premier-league,Brighton & Hove Albion,Wolverhampton Wanderers,17,17. Matchday,3,3,0,1,0,Graham Potter,Home
+2021-01-10,2020,3491242,fa-cup,,Brighton & Hove Albion,,Third Round,5,4,1,0,0,Graham Potter,Away
+2021-01-13,2020,3421852,premier-league,Manchester City,Brighton & Hove Albion,17,18. Matchday,0,1,0,0,1,Graham Potter,Away
+2021-01-16,2020,3421856,premier-league,Leeds United,Brighton & Hove Albion,17,19. Matchday,1,0,1,0,0,Graham Potter,Away
+2021-01-23,2020,3508010,fa-cup,Brighton & Hove Albion,,,Fourth Round,2,1,1,0,0,Graham Potter,Home
+2021-01-27,2020,3429683,premier-league,Brighton & Hove Albion,Fulham FC,17,20. Matchday,0,0,0,1,0,Graham Potter,Home
+2021-01-31,2020,3429694,premier-league,Brighton & Hove Albion,Tottenham Hotspur,17,21. Matchday,1,0,1,0,0,Graham Potter,Home
+2021-02-03,2020,3429710,premier-league,Liverpool FC,Brighton & Hove Albion,15,22. Matchday,1,0,1,0,0,Graham Potter,Away
+2021-02-06,2020,3429714,premier-league,Burnley FC,Brighton & Hove Albion,15,23. Matchday,1,1,0,1,0,Graham Potter,Away
+2021-02-10,2020,3517367,fa-cup,Leicester City,Brighton & Hove Albion,,Fifth Round,0,1,0,0,1,Graham Potter,Away
+2021-02-13,2020,3429724,premier-league,Brighton & Hove Albion,Aston Villa,16,24. Matchday,0,0,0,1,0,Graham Potter,Home
+2021-02-22,2020,3429735,premier-league,Brighton & Hove Albion,Crystal Palace,16,25. Matchday,1,2,0,0,1,Graham Potter,Home
+2021-02-27,2020,3429752,premier-league,West Bromwich Albion,Brighton & Hove Albion,16,26. Matchday,0,1,0,0,1,Graham Potter,Away
+2021-03-06,2020,3429754,premier-league,Brighton & Hove Albion,Leicester City,17,27. Matchday,1,2,0,0,1,Graham Potter,Home
+2021-03-14,2020,3429771,premier-league,Southampton FC,Brighton & Hove Albion,16,28. Matchday,2,1,1,0,0,Graham Potter,Away
+2021-03-20,2020,3429773,premier-league,Brighton & Hove Albion,Newcastle United,16,29. Matchday,3,0,1,0,0,Graham Potter,Home
+2021-04-04,2020,3429789,premier-league,Manchester United,Brighton & Hove Albion,16,30. Matchday,1,2,0,0,1,Graham Potter,Away
+2021-04-12,2020,3429793,premier-league,Brighton & Hove Albion,Everton FC,15,31. Matchday,0,0,0,1,0,Graham Potter,Home
+2021-04-20,2020,3429805,premier-league,Chelsea FC,Brighton & Hove Albion,16,32. Matchday,0,0,0,1,0,Graham Potter,Away
+2021-04-24,2020,3429820,premier-league,Sheffield United,Brighton & Hove Albion,17,33. Matchday,0,1,0,0,1,Graham Potter,Away
+2021-05-01,2020,3429823,premier-league,Brighton & Hove Albion,Leeds United,15,34. Matchday,2,0,1,0,0,Graham Potter,Home
+2021-05-09,2020,3429842,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,17,35. Matchday,1,2,0,0,1,Graham Potter,Away
+2021-05-15,2020,3429843,premier-league,Brighton & Hove Albion,West Ham United,17,36. Matchday,1,1,0,1,0,Graham Potter,Home
+2021-05-18,2020,3429853,premier-league,Brighton & Hove Albion,Manchester City,16,37. Matchday,3,2,1,0,0,Graham Potter,Home
+2021-05-23,2020,3429863,premier-league,Arsenal FC,Brighton & Hove Albion,16,38. Matchday,0,2,0,0,1,Graham Potter,Away
+2021-08-14,2021,3583477,premier-league,Burnley FC,Brighton & Hove Albion,8,1. Matchday,2,1,1,0,0,Graham Potter,Away
+2021-08-21,2021,3583521,premier-league,Brighton & Hove Albion,Watford FC,4,2. Matchday,2,0,1,0,0,Graham Potter,Home
+2021-08-28,2021,3591992,premier-league,Brighton & Hove Albion,Everton FC,8,3. Matchday,0,2,0,0,1,Graham Potter,Home
+2021-09-11,2021,3592022,premier-league,Brentford FC,Brighton & Hove Albion,6,4. Matchday,1,0,1,0,0,Graham Potter,Away
+2021-09-19,2021,3591962,premier-league,Brighton & Hove Albion,Leicester City,4,5. Matchday,2,1,1,0,0,Graham Potter,Home
+2021-09-27,2021,3591984,premier-league,Crystal Palace,Brighton & Hove Albion,6,6. Matchday,1,1,0,1,0,Graham Potter,Away
+2021-10-02,2021,3592001,premier-league,Brighton & Hove Albion,Arsenal FC,6,7. Matchday,0,0,0,1,0,Graham Potter,Home
+2021-10-16,2021,3592018,premier-league,Norwich City,Brighton & Hove Albion,4,8. Matchday,0,0,0,1,0,Graham Potter,Away
+2021-10-23,2021,3592043,premier-league,Brighton & Hove Albion,Manchester City,5,9. Matchday,1,4,0,0,1,Graham Potter,Home
+2021-10-30,2021,3591974,premier-league,Liverpool FC,Brighton & Hove Albion,8,10. Matchday,2,2,0,1,0,Graham Potter,Away
+2021-11-06,2021,3591953,premier-league,Brighton & Hove Albion,Newcastle United,7,11. Matchday,1,1,0,1,0,Graham Potter,Home
+2021-11-20,2021,3592031,premier-league,Aston Villa,Brighton & Hove Albion,9,12. Matchday,0,2,0,0,1,Graham Potter,Away
+2021-11-27,2021,3592093,premier-league,Brighton & Hove Albion,Leeds United,9,13. Matchday,0,0,0,1,0,Graham Potter,Home
+2021-12-01,2021,3592136,premier-league,West Ham United,Brighton & Hove Albion,9,14. Matchday,1,1,0,1,0,Graham Potter,Away
+2021-12-04,2021,3592066,premier-league,Southampton FC,Brighton & Hove Albion,9,15. Matchday,1,1,0,1,0,Graham Potter,Away
+2021-12-15,2021,3592053,premier-league,Brighton & Hove Albion,Wolverhampton Wanderers,13,17. Matchday,0,1,0,0,1,Graham Potter,Home
+2021-12-26,2021,3592163,premier-league,Brighton & Hove Albion,Brentford FC,12,19. Matchday,2,0,1,0,0,Graham Potter,Home
+2021-12-29,2021,3592188,premier-league,Chelsea FC,Brighton & Hove Albion,12,20. Matchday,1,1,0,1,0,Graham Potter,Away
+2022-01-02,2021,3592305,premier-league,Everton FC,Brighton & Hove Albion,10,21. Matchday,3,2,1,0,0,Graham Potter,Away
+2022-01-08,2021,3710342,fa-cup,West Bromwich Albion,Brighton & Hove Albion,,Third Round,2,1,1,0,0,Graham Potter,Away
+2022-01-14,2021,3592112,premier-league,Brighton & Hove Albion,Crystal Palace,10,22. Matchday,1,1,0,1,0,Graham Potter,Home
+2022-01-18,2021,3592166,premier-league,Brighton & Hove Albion,Chelsea FC,11,24. Matchday,1,1,0,1,0,Graham Potter,Home
+2022-01-23,2021,3592127,premier-league,Leicester City,Brighton & Hove Albion,11,23. Matchday,1,1,0,1,0,Björn Hamberg,Away
+2022-02-05,2021,3729277,fa-cup,Tottenham Hotspur,Brighton & Hove Albion,,Fourth Round,1,3,0,0,1,Graham Potter,Away
+2022-02-12,2021,3592266,premier-league,Watford FC,Brighton & Hove Albion,10,25. Matchday,2,0,1,0,0,Graham Potter,Away
+2022-02-15,2021,3592084,premier-league,Manchester United,Brighton & Hove Albion,14,18. Matchday,0,2,0,0,1,Graham Potter,Away
+2022-02-19,2021,3592103,premier-league,Brighton & Hove Albion,Burnley FC,10,26. Matchday,0,3,0,0,1,Graham Potter,Home
+2022-02-26,2021,3592286,premier-league,Brighton & Hove Albion,Aston Villa,12,27. Matchday,0,2,0,0,1,Graham Potter,Home
+2022-03-05,2021,3592146,premier-league,Newcastle United,Brighton & Hove Albion,13,28. Matchday,1,2,0,0,1,Graham Potter,Away
+2022-03-12,2021,3592176,premier-league,Brighton & Hove Albion,Liverpool FC,13,29. Matchday,0,2,0,0,1,Graham Potter,Home
+2022-03-16,2021,3592073,premier-league,Brighton & Hove Albion,Tottenham Hotspur,11,16. Matchday,0,2,0,0,1,Graham Potter,Home
+2022-04-02,2021,3592152,premier-league,Brighton & Hove Albion,Norwich City,13,31. Matchday,0,0,0,1,0,Graham Potter,Home
+2022-04-09,2021,3592154,premier-league,Arsenal FC,Brighton & Hove Albion,12,32. Matchday,2,1,1,0,0,Graham Potter,Away
+2022-04-16,2021,3592255,premier-league,Tottenham Hotspur,Brighton & Hove Albion,10,33. Matchday,1,0,1,0,0,Graham Potter,Away
+2022-04-20,2021,3592217,premier-league,Manchester City,Brighton & Hove Albion,14,30. Matchday,0,3,0,0,1,Graham Potter,Away
+2022-04-24,2021,3592192,premier-league,Brighton & Hove Albion,Southampton FC,11,34. Matchday,2,2,0,1,0,Graham Potter,Home
+2022-04-30,2021,3592281,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,10,35. Matchday,3,0,1,0,0,Graham Potter,Away
+2022-05-07,2021,3592187,premier-league,Brighton & Hove Albion,Manchester United,9,36. Matchday,4,0,1,0,0,Graham Potter,Home
+2022-05-15,2021,3592184,premier-league,Leeds United,Brighton & Hove Albion,10,37. Matchday,1,1,0,1,0,Graham Potter,Away
+2022-05-22,2021,3592182,premier-league,Brighton & Hove Albion,West Ham United,9,38. Matchday,3,1,1,0,0,Graham Potter,Home
+2022-08-07,2022,3837822,premier-league,Manchester United,Brighton & Hove Albion,7,1. Matchday,2,1,1,0,0,Graham Potter,Away
+2022-08-13,2022,3837830,premier-league,Brighton & Hove Albion,Newcastle United,8,2. Matchday,0,0,0,1,0,Graham Potter,Home
+2022-08-21,2022,3837843,premier-league,West Ham United,Brighton & Hove Albion,5,3. Matchday,2,0,1,0,0,Graham Potter,Away
+2022-08-24,2021,3903148,efl-cup,,Brighton & Hove Albion,,Second Round,3,0,1,0,0,Graham Potter,Away
+2022-08-27,2022,3837847,premier-league,Brighton & Hove Albion,Leeds United,4,4. Matchday,1,0,1,0,0,Graham Potter,Home
+2022-08-30,2022,3837856,premier-league,Fulham FC,Brighton & Hove Albion,4,5. Matchday,1,2,0,0,1,Graham Potter,Away
+2022-09-04,2022,3837974,premier-league,Brighton & Hove Albion,Leicester City,4,6. Matchday,5,2,1,0,0,Graham Potter,Home
+2022-10-01,2022,3838014,premier-league,Liverpool FC,Brighton & Hove Albion,3,9. Matchday,3,3,0,1,0,Roberto De Zerbi,Away
+2022-10-08,2022,3838020,premier-league,Brighton & Hove Albion,Tottenham Hotspur,4,10. Matchday,0,1,0,0,1,Roberto De Zerbi,Home
+2022-10-14,2022,3838029,premier-league,Brentford FC,Brighton & Hove Albion,4,11. Matchday,0,2,0,0,1,Roberto De Zerbi,Away
+2022-10-18,2022,3838053,premier-league,Brighton & Hove Albion,Nottingham Forest,5,12. Matchday,0,0,0,1,0,Roberto De Zerbi,Home
+2022-10-22,2022,3838192,premier-league,Manchester City,Brighton & Hove Albion,7,13. Matchday,1,3,0,0,1,Roberto De Zerbi,Away
+2022-10-29,2022,3838207,premier-league,Brighton & Hove Albion,Chelsea FC,6,14. Matchday,4,1,1,0,0,Roberto De Zerbi,Home
+2022-11-05,2022,3838235,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,4,15. Matchday,3,2,1,0,0,Roberto De Zerbi,Away
+2022-11-09,2021,3911710,efl-cup,Arsenal FC,Brighton & Hove Albion,,Third Round,3,1,1,0,0,Roberto De Zerbi,Away
+2022-11-13,2022,3838237,premier-league,Brighton & Hove Albion,Aston Villa,6,16. Matchday,1,2,0,0,1,Roberto De Zerbi,Home
+2022-12-21,2021,3959872,efl-cup,,Brighton & Hove Albion,,Fourth Round,3,4,0,0,1,Roberto De Zerbi,Away
+2022-12-26,2022,3838261,premier-league,Southampton FC,Brighton & Hove Albion,5,17. Matchday,3,1,1,0,0,Roberto De Zerbi,Away
+2022-12-31,2022,3838263,premier-league,Brighton & Hove Albion,Arsenal FC,6,18. Matchday,2,4,0,0,1,Roberto De Zerbi,Home
+2023-01-03,2022,3838277,premier-league,Everton FC,Brighton & Hove Albion,6,19. Matchday,4,1,1,0,0,Roberto De Zerbi,Away
+2023-01-07,2023,3974031,fa-cup,Middlesbrough FC,Brighton & Hove Albion,,Third Round,5,1,1,0,0,Roberto De Zerbi,Away
+2023-01-14,2022,3838793,premier-league,Brighton & Hove Albion,Liverpool FC,5,20. Matchday,3,0,1,0,0,Roberto De Zerbi,Home
+2023-01-21,2022,3838787,premier-league,Leicester City,Brighton & Hove Albion,5,21. Matchday,2,2,0,1,0,Roberto De Zerbi,Away
+2023-01-29,2023,4013658,fa-cup,Brighton & Hove Albion,Liverpool FC,,Fourth Round,2,1,1,0,0,Roberto De Zerbi,Home
+2023-02-04,2022,3838773,premier-league,Brighton & Hove Albion,AFC Bournemouth,5,22. Matchday,1,0,1,0,0,Roberto De Zerbi,Home
+2023-02-11,2022,3838768,premier-league,Crystal Palace,Brighton & Hove Albion,5,23. Matchday,1,1,0,1,0,Roberto De Zerbi,Away
+2023-02-18,2022,3838753,premier-league,Brighton & Hove Albion,Fulham FC,6,24. Matchday,0,1,0,0,1,Roberto De Zerbi,Home
+2023-02-28,2023,4018348,fa-cup,Stoke City,Brighton & Hove Albion,,Fifth Round,1,0,1,0,0,Roberto De Zerbi,Away
+2023-03-04,2022,3838737,premier-league,Brighton & Hove Albion,West Ham United,6,26. Matchday,4,0,1,0,0,Roberto De Zerbi,Home
+2023-03-11,2022,3838725,premier-league,Leeds United,Brighton & Hove Albion,6,27. Matchday,2,2,0,1,0,Roberto De Zerbi,Away
+2023-03-15,2022,3838000,premier-league,Brighton & Hove Albion,Crystal Palace,3,8. Matchday,1,0,1,0,0,Roberto De Zerbi,Home
+2023-03-19,2023,4035007,fa-cup,Brighton & Hove Albion,,,Quarter-Finals,5,0,1,0,0,Roberto De Zerbi,Home
+2023-04-01,2022,3838708,premier-league,Brighton & Hove Albion,Brentford FC,6,29. Matchday,3,3,0,1,0,Roberto De Zerbi,Home
+2023-04-04,2022,3837988,premier-league,AFC Bournemouth,Brighton & Hove Albion,3,7. Matchday,2,0,1,0,0,Roberto De Zerbi,Away
+2023-04-08,2022,3838692,premier-league,Tottenham Hotspur,Brighton & Hove Albion,6,30. Matchday,1,2,0,0,1,Roberto De Zerbi,Away
+2023-04-15,2022,3838684,premier-league,Chelsea FC,Brighton & Hove Albion,6,31. Matchday,2,1,1,0,0,Roberto De Zerbi,Away
+2023-04-23,2023,4042688,fa-cup,Brighton & Hove Albion,Manchester United,,Semi-Finals,6,7,0,0,1,Roberto De Zerbi,Home
+2023-04-26,2022,3838654,premier-league,Nottingham Forest,Brighton & Hove Albion,8,33. Matchday,1,3,0,0,1,Roberto De Zerbi,Away
+2023-04-29,2022,3838645,premier-league,Brighton & Hove Albion,Wolverhampton Wanderers,6,34. Matchday,6,0,1,0,0,Roberto De Zerbi,Home
+2023-05-04,2022,3838714,premier-league,Brighton & Hove Albion,Manchester United,6,28. Matchday,1,0,1,0,0,Roberto De Zerbi,Home
+2023-05-08,2022,3838624,premier-league,Brighton & Hove Albion,Everton FC,7,35. Matchday,1,5,0,0,1,Roberto De Zerbi,Home
+2023-05-14,2022,3838613,premier-league,Arsenal FC,Brighton & Hove Albion,6,36. Matchday,3,0,1,0,0,Roberto De Zerbi,Away
+2023-05-18,2022,3838748,premier-league,Newcastle United,Brighton & Hove Albion,6,25. Matchday,1,4,0,0,1,Roberto De Zerbi,Away
+2023-05-21,2022,3838604,premier-league,Brighton & Hove Albion,Southampton FC,6,37. Matchday,3,1,1,0,0,Roberto De Zerbi,Home
+2023-05-24,2022,3838671,premier-league,Brighton & Hove Albion,Manchester City,6,32. Matchday,1,1,0,1,0,Roberto De Zerbi,Home
+2023-05-28,2022,3838594,premier-league,Aston Villa,Brighton & Hove Albion,6,38. Matchday,1,2,0,0,1,Roberto De Zerbi,Away
+2023-08-12,2023,4087927,premier-league,Brighton & Hove Albion,Luton Town,2,1. Matchday,4,1,1,0,0,Roberto De Zerbi,Home
+2023-08-19,2023,4087943,premier-league,Wolverhampton Wanderers,Brighton & Hove Albion,1,2. Matchday,4,1,1,0,0,Roberto De Zerbi,Away
+2023-08-26,2023,4087947,premier-league,Brighton & Hove Albion,West Ham United,6,3. Matchday,1,3,0,0,1,Roberto De Zerbi,Home
+2023-09-02,2023,4087956,premier-league,Brighton & Hove Albion,Newcastle United,6,4. Matchday,3,1,1,0,0,Roberto De Zerbi,Home
+2023-09-16,2023,4087967,premier-league,Manchester United,Brighton & Hove Albion,5,5. Matchday,3,1,1,0,0,Roberto De Zerbi,Away
