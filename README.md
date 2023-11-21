@@ -9,4 +9,6 @@ The visualization includes
   - Goals & assists
   - G/A stats which conclude how this team played on that season.
 
+Link: https://public.tableau.com/views/Brighton_visualization/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 HUGE THANKS to @hendrSet312 for the code 🙏🙏🙏
