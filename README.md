@@ -11,4 +11,4 @@ The visualization includes
 
 Link: https://public.tableau.com/views/Brighton_visualization/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-HUGE THANKS to @hendrSet312 for the code 🙏🙏🙏
+HUGE THANKS to @hendrSet312 for the query help 🙏🙏🙏
